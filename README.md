@@ -2,7 +2,7 @@
 
 EthFlashCard is blockchain based app for flash card payment like (Gift Cards) which can be redeemed later with a key and card Id.
 
-> Note: This is very basic implementation of my idea or in other words its the first concept draft. Will keep improving and adding feature. Feel free to contribute or suggest any changes.
+> Note: This is very basic implementation of my idea or in other words its the first concept draft. Will keep improving and adding feature. End goal is to develop a flashcard payment service to pay on-chain without any wallet. Feel free to contribute or suggest any changes.
 
 
 How it works:
