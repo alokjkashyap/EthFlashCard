@@ -1,6 +1,6 @@
-# EthFlashCard
+![MacBook Air M2 - 1](https://user-images.githubusercontent.com/92246587/193424276-f7d2081f-92d8-481c-8c08-6b8bac07dc0d.png)
 
-EthFlashCard is blockchain based app for flash card payment like (Gift Cards) which can be redeemed later with a key and card Id.
+FlashCard is blockchain based app for flash card payment like (Gift Cards) which can be redeemed later with a key and card Id.
 
 > Note: This is very basic implementation of my idea or in other words its the first concept draft. Will keep improving and adding feature. End goal is to develop a flashcard payment service to pay on-chain without any wallet. Feel free to contribute or suggest any changes.
 
