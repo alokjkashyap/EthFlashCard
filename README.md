@@ -7,7 +7,7 @@ FlashCard is blockchain based app for flash card payment like (Gift Cards) which
 
 How it works:
 - User creates a card with any amount (in ETH) using `createNewCard()` with parameters `amount` and `keyHash` (keccak256) of the password user wanna use.
-- The above step generates and returs a `cardId` for the card generated.
+- The above step generates and returns a `cardId` for the card generated.
 - Card can be redeemed either partially or fully to anyone.
 - Partial redemption requires a `keyHash` swap meaning it will replace the key for next redemption.
 - User can either redeem the card to same wallet or to other wallet address using `redeemCard()` or `redeemCardTo()` function respectively.
