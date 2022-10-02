@@ -123,7 +123,7 @@ contract FlashCardContract {
     function isCardOwner(address owner, uint256 _cardId) public view returns (bool) {
 	  uint256 _cardCount =  cardCount; // gas saving
         require(_cardId >= _cardCount, "Invalid Card Id");
-        if (cardIds[_cardId] == to) {
+        if (cardIds[_cardId] == owner) {
             return true;
         } else {
             return false;
